@@ -1,22 +1,22 @@
 [
-  {
-    "id" :  1,
-    "platform" : "coursera",
-    "free_course" : "yes",
-    "course_name" : "Basic Python",
-    "link" : "https://coursera.com/Basic-python",
-    "difficulty" : "beginner",
-    "module_number" : 6,
-    "certification" : "free"
-  },
-  {
-    "id" :  2,
-    "platform" : "coursera",
-    "free_course" : "yes",
-    "course_name" : "Basic C",
-    "link" : "https://coursera.com/Basic-C",
-    "difficulty" : "beginner",
-    "module_number" : 7,
-    "certification" : "paid"
-  }
+     {
+       "id" :  1,
+       "platform" : "educative",
+       "free_course" : "no",
+       "course_name" : "Accelerated Linux Core Dump Analysis",
+       "link" : "https://www.educative.io/courses/accelerated-linux-core-dump-analysis",
+       "difficulty" : "expert",
+       "module_number" : 15,
+       "certification" : "paid"
+     },
+     {
+       "id" :  2,
+       "platform" : "educative",
+       "free_course" : "no",
+       "course_name" : "Foundations of Linux ARM64: Debug, Disassemble, and Reverse",
+       "link" : "https://www.educative.io/courses/foundations-of-linux-arm64-debug-disassemble-and-reverse",
+       "difficulty" : "intermediate",
+       "module_number" : 15,
+       "certification" : "paid"
+     }
 ]
