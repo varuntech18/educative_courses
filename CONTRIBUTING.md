@@ -1,5 +1,5 @@
-# Coursera courses database
-This comprises of data on courses assisting a noesis on technical subjects
+# Educative courses database
+This comprises of data on courses assisting in learning technical subjects
 
 ## Procedure :
 1. Fork this repository and edit as per the following rules.
@@ -24,20 +24,20 @@ You can take the reference from below example and structure your information sim
   [
     {
       "id" :  1,
-      "platform" : "coursera",
+      "platform" : "educative",
       "free_course" : "yes",
       "course_name" : "Basic Python",
-      "link" : "https://coursera.com/Basic-python",
+      "link" : "https://educative.io/Basic-python",
       "difficulty" : "beginner",
       "module_number" : 6,
       "certification" : "free"
     },
     {
       "id" :  2,
-      "platform" : "coursera",
+      "platform" : "educative",
       "free_course" : "yes",
       "course_name" : "Basic C",
-      "link" : "https://coursera.com/Basic-C",
+      "link" : "https://coursera.io/Basic-C",
       "difficulty" : "beginner",
       "module_number" : 7,
       "certification" : "paid"
