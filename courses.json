@@ -38,5 +38,15 @@
        "difficulty" : "intermediate",
        "module_number" : 8,
        "certification" : "paid"
+     },
+     {
+       "id" :  5,
+       "platform" : "educative",
+       "free_course" : "no",
+       "course_name" : "Programming in python",
+       "link" : "https://www.educative.io/courses/programming-in-python",
+       "difficulty" : "beginner",
+       "module_number" : 27,
+       "certification" : "paid"
      }
 ]
