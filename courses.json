@@ -28,5 +28,15 @@
        "difficulty" : "beginner",
        "module_number" : 11,
        "certification" : "paid"
+     },
+      {
+       "id" :  4,
+       "platform" : "educative",
+       "free_course" : "no",
+       "course_name" : "Designing Machine/Deep Learning Models Using Azure CLI",
+       "link" : "https://www.educative.io/courses/designing-machine-deep-learning-models-using-azure-cli",
+       "difficulty" : "intermediate",
+       "module_number" : 8,
+       "certification" : "paid"
      }
 ]
