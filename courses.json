@@ -48,5 +48,15 @@
        "difficulty" : "beginner",
        "module_number" : 27,
        "certification" : "paid"
+     },
+     {
+       "id" :  6,
+       "platform" : "educative",
+       "free_course" : "no",
+       "course_name" : "The Art of PostgreSQL",
+       "link" : "https://www.educative.io/courses/the-art-of-postgresql",
+       "difficulty" : "Advanced",
+       "module_number" : 42,
+       "certification" : "paid"
      }
 ]
