@@ -60,13 +60,13 @@
        "certification" : "paid"
      },
      {
-       "id" :  7,
+       "id" :  22,
        "platform" : "educative",
        "free_course" : "no",
-       "course_name" : "Advanced Data Structures: Implementing Tries in C++ and Java",
-       "link" : "https://www.educative.io/courses/advanced-data-structures-implementing-tries-in-cpp-and-java",
+       "course_name" : "Getting Started with Mobile App Development with React Native",
+       "link" : "https://www.educative.io/courses/getting-started-with-mobile-app-development-with-react-native",
        "difficulty" : "intermediate",
-       "module_number" : 10,
+       "module_number" : 13,
        "certification" : "paid"
      }
 ]
