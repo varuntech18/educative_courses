@@ -59,4 +59,14 @@
        "module_number" : 42,
        "certification" : "paid"
      }
+     {
+       "id" :  20,
+       "platform" : "educative",
+       "free_course" : "no",
+       "course_name" : "Accelerated Linux Core Dump Analysis",
+       "link" : "https://www.educative.io/courses/accelerated-linux-core-dump-analysis",
+       "difficulty" : "Advanced",
+       "module_number" : 15,
+       "certification" : "paid"
+     }
 ]
