@@ -205,9 +205,19 @@
       "free_course" : "no",
       "course_name" : "Debugging, Disassembly & Reversing in Linux for x64 Architecture",
       "link" : "https://www.educative.io/courses/debugging-disassembly-reversing-in-linux-x64-architecture",
-      "difficulty" : "Intermediate",
+      "difficulty" : "intermediate",
       "module_number" : 15,
       "certification" : "paid"
+    },
+    {
+     "id" :  16,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "Software Design Patterns in C",
+     "link" : "https://www.educative.io/courses/software-design-patterns-c",
+     "difficulty" : "intermediate",
+     "module_number" : 8,
+     "certification" : "paid"
     }
     
 ]
