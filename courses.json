@@ -60,6 +60,15 @@
        "certification" : "paid"
      },
      {
+       "id" :  9,
+       "platform" : "educative",
+       "free_course" : "no",
+       "course_name" : "Data Structures with Generic Types in Java",
+       "link" : "https://www.educative.io/courses/data-structures-with-generic-types-in-java",
+       "difficulty" : "intermediate",
+       "module_number" : 15,
+       "certification" : "paid"
+     },
        "id" :  7,
        "platform" : "educative",
        "free_course" : "no",
@@ -88,7 +97,7 @@
        "difficulty" : "Advanced",
        "module_number" : 15,
        "certification" : "paid"
-     }
+     },
      {
        "id" :  8,
        "platform" : "educative",
