@@ -7,14 +7,14 @@ This comprises of data on courses assisting in learning technical subjects
 3. Wait for it to get merged !
 
 ### Rules:
-1. ***platform*** name should be in **lowercase**
-2. ***id*** is the number assigned by your mentor
-3. ***module_number*** should be an **integer**
-4. if modules are unavailable, videos, chapters etc can be added
-5. ***free_courses*** - can have either **'yes'** or **'no'** against them
-6. ***difficulty*** can be either one of three options- **'beginner'** , **'intermediate'** or **'expert'**.
-7. ***certification*** can be either one of three options- **'free'** (for *free courses with free certifications*), **'paid'** (either for *paid courses* or *free courses with paid certifications* ) and **'none'**.
-8. Make sure that the courses you're entering into the database don't already exist there !
+1. ***id*** is the number assigned by your mentor
+2. ***module_number*** should be an **integer**, *refer the table of contents for module numbers !*
+3. ***free_courses*** - can have either **'yes'** or **'no'** against them
+4. ***difficulty*** can be either one of three options- **'beginner'** , **'intermediate'** or **'advanced'**.
+5. ***certification*** can be either one of three options- **'free'** (for *free courses with free certifications*), **'paid'** (either for *paid courses* or *free courses with paid certifications* ) and **'none'**.
+6. Commit message should be 'Added *course_name* ' or similar message stating the course name.
+7. Make sure that the courses you're entering into the database don't already exist there !
+8. ***PRs which don't abide by the rules won't be merged***
 
 ### Reference :
 You can take the reference from below example and structure your information similar to that.
@@ -43,3 +43,9 @@ You can take the reference from below example and structure your information sim
        "certification" : "paid"
      }
 ]
+ ```
+
+*Module number reference*
+
+![github educative](https://github.com/gdsc-bit/educative_courses/assets/100427124/86e36964-7063-412d-882a-5ae9838492e3)
+
