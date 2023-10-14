@@ -59,7 +59,7 @@
        "module_number" : 42,
        "certification" : "paid"
      },
-      {
+     {
        "id" :  7,
        "platform" : "educative",
        "free_course" : "no",
@@ -78,7 +78,7 @@
        "difficulty" : "beginner",
        "module_number" : 8,
        "certification" : "paid"
-     }
+     },
      {
        "id" :  20,
        "platform" : "educative",
