@@ -119,4 +119,12 @@
        "module_number" : 11,
        "certification" : "paid"
      }
+     id" :  21,
+       "platform" : "educative",
+       "free_course" : "no",
+       "course_name" : "Data Science in R: From Basics to Machine Learning",
+       "link" : "https://www.educative.io/courses/data-science-in-r-from-basics-to-machine-learning",
+       "difficulty" : "Advanced",
+       "module_number" : 11,
+       "certification" : "paid"
 ]
