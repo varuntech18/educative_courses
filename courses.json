@@ -60,6 +60,36 @@
        "certification" : "paid"
      },
      {
+       "id" :  12
+       "platform" : "educative",
+       "free_course" : "no",
+       "course_name" : "Control Access to Your Applications Using Auth0 API in JavaScript",
+       "link" : "https://www.educative.io/courses/control-access-to-your-apps-using-auth0-api-in-javascript",
+       "difficulty" : "Beginner",
+       "module_number" : 8,
+       "certification" : "paid"
+     },
+     {
+       "id" :  10,
+       "platform" : "educative",
+       "free_course" : "no",
+       "course_name" : "Learn to Code: Java for Absolute Beginners",
+       "link" : "https://www.educative.io/courses/learn-to-code-java-for-absolute-beginners",
+       "difficulty" : "beginner",
+       "module_number" : 9,
+       "certification" : "paid"
+     },
+     {
+       "id" :  9,
+       "platform" : "educative",
+       "free_course" : "no",
+       "course_name" : "Data Structures with Generic Types in Java",
+       "link" : "https://www.educative.io/courses/data-structures-with-generic-types-in-java",
+       "difficulty" : "intermediate",
+       "module_number" : 15,
+       "certification" : "paid"
+     },
+     {
        "id" :  7,
        "platform" : "educative",
        "free_course" : "no",
@@ -69,7 +99,77 @@
        "module_number" : 10,
        "certification" : "paid"
      },
-          {
+     {
+       "id" :  14,
+       "platform" : "educative",
+       "free_course" : "no",
+       "course_name" : "Integration with YouTube Data API in JavaScript",
+       "link" : "https://www.educative.io/courses/integration-with-youtube-data-api-in-javascript",
+       "difficulty" : "beginner",
+       "module_number" : 8,
+       "certification" : "paid"
+     },
+     {
+       "id" :  11,
+       "platform" : "educative",
+       "free_course" : "no",
+       "course_name" : "Introduction to Data Analysis and Visualization with R",
+       "link" : "https://www.educative.io/courses/introduction-to-data-analysis-and-visualization-with-r",
+       "difficulty" : "beginner",
+       "module_number" : 8,
+       "certification" : "paid"
+     },
+     {
+       "id" :  20,
+       "platform" : "educative",
+       "free_course" : "no",
+       "course_name" : "Accelerated Linux Core Dump Analysis",
+       "link" : "https://www.educative.io/courses/accelerated-linux-core-dump-analysis",
+       "difficulty" : "Advanced",
+       "module_number" : 15,
+       "certification" : "paid"
+     },
+     {
+       "id" :  8,
+       "platform" : "educative",
+       "free_course" : "no",
+       "course_name" : "All About JUnit5",
+       "link" : "https://www.educative.io/courses/all-about-junit5",
+       "difficulty" : "beginner",
+       "module_number" : 11,
+       "certification" : "paid"
+     },
+     {
+       "id" :  21,
+       "platform" : "educative",
+       "free_course" : "no",
+       "course_name" : "Data Science in R: From Basics to Machine Learning",
+       "link" : "https://www.educative.io/courses/data-science-in-r-from-basics-to-machine-learning",
+       "difficulty" : "Advanced",
+       "module_number" : 11,
+       "certification" : "paid"
+     },
+     {
+       "id" :  19,
+       "platform" : "educative",
+       "free_course" : "no",
+       "course_name" : "Foundations of Linux ARM64: Debug, Disassemble, and Reverse",
+       "link" : "https://www.educative.io/courses/foundations-of-linux-arm64-debug-disassemble-and-reverse",
+       "difficulty" : "intermediate",
+       "module_number" : 15,
+       "certification" : "paid"
+     },
+     {
+       "id" :  22,
+       "platform" : "educative",
+       "free_course" : "no",
+       "course_name" : "Getting Started with Mobile App Development with React Native",
+       "link" : "https://www.educative.io/courses/getting-started-with-mobile-app-development-with-react-native",
+       "difficulty" : "intermediate",
+       "module_number" : 13,
+       "certification" : "paid"
+     },
+     {
        "id" :  15,
        "platform" : "educative",
        "free_course" : "no",
