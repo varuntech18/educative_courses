@@ -60,7 +60,7 @@
        "certification" : "paid"
      },
      {
-       "id" :  12
+       "id" :  12,
        "platform" : "educative",
        "free_course" : "no",
        "course_name" : "Control Access to Your Applications Using Auth0 API in JavaScript",
