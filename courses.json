@@ -228,6 +228,15 @@
      "difficulty" : "intermediate",
      "module_number" : 8,
      "certification" : "paid"
-    }
+    },
+    {
+     "id" :  28,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "AWS API Gateway: The Unsung Warrior",
+     "link" : "https://www.educative.io/courses/aws-api-gateway-the-unsung-warrior",
+     "difficulty" : "intermediate",
+     "module_number" : 7,
+     "certification" : "paid"
     
 ]
