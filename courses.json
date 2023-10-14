@@ -59,14 +59,14 @@
        "module_number" : 42,
        "certification" : "paid"
      },
-     {
-       "id" :  7,
+      {
+       "id" :  12,
        "platform" : "educative",
        "free_course" : "no",
-       "course_name" : "Advanced Data Structures: Implementing Tries in C++ and Java",
-       "link" : "https://www.educative.io/courses/advanced-data-structures-implementing-tries-in-cpp-and-java",
-       "difficulty" : "intermediate",
-       "module_number" : 10,
+       "course_name" : "Control Access to Your Applications Using Auth0 API in JavaScript",
+       "link" : "https://www.educative.io/courses/control-access-to-your-apps-using-auth0-api-in-javascript",
+       "difficulty" : "Beginner",
+       "module_number" : 8,
        "certification" : "paid"
      }
 ]
