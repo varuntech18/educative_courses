@@ -198,5 +198,16 @@
      "difficulty" : "advanced",
      "module_number" : 10,
      "certification" : "paid"
+    },
+    {
+      "id" :  17,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "Debugging, Disassembly & Reversing in Linux for x64 Architecture",
+      "link" : "https://www.educative.io/courses/debugging-disassembly-reversing-in-linux-x64-architecture",
+      "difficulty" : "Intermediate",
+      "module_number" : 15,
+      "certification" : "paid"
     }
+    
 ]
