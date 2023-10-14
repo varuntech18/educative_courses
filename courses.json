@@ -228,6 +228,16 @@
      "difficulty" : "intermediate",
      "module_number" : 8,
      "certification" : "paid"
+    },
+    {
+     "id" :  25,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "A Practical Guide to Helm",
+     "link" : "https://www.educative.io/courses/a-practical-guide-to-helm",
+     "difficulty" : "intermediate",
+     "module_number" : 9,
+     "certification" : "paid"
     }
     
 ]
