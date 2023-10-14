@@ -200,6 +200,16 @@
      "certification" : "paid"
     },
     {
+      "id" :  18,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "An In-Depth Understanding of Memory and Pointers in C",
+      "link" : "https://www.educative.io/courses/in-depth-understanding-of-memory-and-pointers-in-c",
+      "difficulty" : "beginner",
+      "module_number" : 15,
+      "certification" : "paid"
+    },
+    {
       "id" :  17,
       "platform" : "educative",
       "free_course" : "no",
