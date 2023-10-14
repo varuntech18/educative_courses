@@ -138,5 +138,15 @@
        "difficulty" : "Advanced",
        "module_number" : 11,
        "certification" : "paid"
+     },
+     {
+       "id" :  19,
+       "platform" : "educative",
+       "free_course" : "no",
+       "course_name" : "Foundations of Linux ARM64: Debug, Disassemble, and Reverse",
+       "link" : "https://www.educative.io/courses/foundations-of-linux-arm64-debug-disassemble-and-reverse",
+       "difficulty" : "intermediate",
+       "module_number" : 15,
+       "certification" : "paid"
      }
 ]
