@@ -48,3 +48,7 @@ You can take the reference from below example and structure your information sim
 
 ![github educative](https://github.com/gdsc-bit/educative_courses/assets/100427124/86e36964-7063-412d-882a-5ae9838492e3)
 
+
+#### Bonus :
+Improve the layout and functionality of the deployed webpage - quality PRs will get merged !
+
