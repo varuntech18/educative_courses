@@ -118,8 +118,9 @@
        "difficulty" : "beginner",
        "module_number" : 11,
        "certification" : "paid"
-     }
-     id" :  21,
+     },
+     {
+       "id" :  21,
        "platform" : "educative",
        "free_course" : "no",
        "course_name" : "Data Science in R: From Basics to Machine Learning",
@@ -127,4 +128,5 @@
        "difficulty" : "Advanced",
        "module_number" : 11,
        "certification" : "paid"
+     }
 ]
