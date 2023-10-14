@@ -59,7 +59,17 @@
        "module_number" : 42,
        "certification" : "paid"
      },
-       {
+     {
+       "id" :  7,
+       "platform" : "educative",
+       "free_course" : "no",
+       "course_name" : "Advanced Data Structures: Implementing Tries in C++ and Java",
+       "link" : "https://www.educative.io/courses/advanced-data-structures-implementing-tries-in-cpp-and-java",
+       "difficulty" : "intermediate",
+       "module_number" : 10,
+       "certification" : "paid"
+     },
+     {
        "id" :  11,
        "platform" : "educative",
        "free_course" : "no",
