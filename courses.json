@@ -59,4 +59,14 @@
        "module_number" : 42,
        "certification" : "paid"
      }
+     {
+       "id" :  8,
+       "platform" : "educative",
+       "free_course" : "no",
+       "course_name" : "All About JUnit5",
+       "link" : "https://www.educative.io/courses/all-about-junit5",
+       "difficulty" : "beginner",
+       "module_number" : 11,
+       "certification" : "paid"
+     }
 ]
