@@ -58,5 +58,15 @@
        "difficulty" : "Advanced",
        "module_number" : 42,
        "certification" : "paid"
+     },
+     {
+       "id" :  10,
+       "platform" : "educative",
+       "free_course" : "no",
+       "course_name" : "Learn to Code: Java for Absolute Beginners",
+       "link" : "https://www.educative.io/courses/learn-to-code-java-for-absolute-beginners",
+       "difficulty" : "beginner",
+       "module_number" : 9,
+       "certification" : "paid"
      }
 ]
