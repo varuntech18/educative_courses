@@ -88,5 +88,15 @@
        "difficulty" : "Advanced",
        "module_number" : 15,
        "certification" : "paid"
-     }
+     },
+     {
+      "id" :  21,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "Distributed Systems for Practitioners",
+      "link" : "https://www.educative.io/courses/distributed-systems-practitioners",
+      "difficulty" : "beginner",
+      "module_number" : 31,
+      "certification" : "paid"
+    }
 ]
