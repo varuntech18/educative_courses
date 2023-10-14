@@ -44,8 +44,7 @@ You can take the reference from below example and structure your information sim
      }
 ]
  ```
-
-*Module number reference*
+### Module Number Reference :
 
 ![github educative](https://github.com/gdsc-bit/educative_courses/assets/100427124/86e36964-7063-412d-882a-5ae9838492e3)
 
