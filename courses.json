@@ -310,16 +310,6 @@
      "certification" : "paid"
     },
     {
-     "id" :  32,
-     "platform" : "educative",
-     "free_course" : "no",
-     "course_name" : "API Development in Go Using MongoDB",
-     "link" : "https://www.educative.io/courses/api-development-in-go-using-mongodb",
-     "difficulty" : "intermediate",
-     "module_number" : 9,
-     "certification" : "paid"
-    },
-    {
      "id" :  33,
      "platform" : "educative",
      "free_course" : "no",
