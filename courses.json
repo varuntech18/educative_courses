@@ -5,7 +5,7 @@
        "free_course" : "no",
        "course_name" : "Accelerated Linux Core Dump Analysis",
        "link" : "https://www.educative.io/courses/accelerated-linux-core-dump-analysis",
-       "difficulty" : "expert",
+       "difficulty" : "advanced",
        "module_number" : 15,
        "certification" : "paid"
      },
@@ -55,7 +55,7 @@
        "free_course" : "no",
        "course_name" : "The Art of PostgreSQL",
        "link" : "https://www.educative.io/courses/the-art-of-postgresql",
-       "difficulty" : "Advanced",
+       "difficulty" : "advanced",
        "module_number" : 42,
        "certification" : "paid"
      },
@@ -65,7 +65,7 @@
        "free_course" : "no",
        "course_name" : "Control Access to Your Applications Using Auth0 API in JavaScript",
        "link" : "https://www.educative.io/courses/control-access-to-your-apps-using-auth0-api-in-javascript",
-       "difficulty" : "Beginner",
+       "difficulty" : "beginner",
        "module_number" : 8,
        "certification" : "paid"
      },
@@ -125,7 +125,7 @@
        "free_course" : "no",
        "course_name" : "Accelerated Linux Core Dump Analysis",
        "link" : "https://www.educative.io/courses/accelerated-linux-core-dump-analysis",
-       "difficulty" : "Advanced",
+       "difficulty" : "advanced",
        "module_number" : 15,
        "certification" : "paid"
      },
@@ -145,7 +145,7 @@
        "free_course" : "no",
        "course_name" : "Data Science in R: From Basics to Machine Learning",
        "link" : "https://www.educative.io/courses/data-science-in-r-from-basics-to-machine-learning",
-       "difficulty" : "Advanced",
+       "difficulty" : "advanced",
        "module_number" : 11,
        "certification" : "paid"
      },
@@ -173,10 +173,20 @@
        "id" :  15,
        "platform" : "educative",
        "free_course" : "no",
-       "course_name" : "Foundations of Linux ARM64: Debug, Disassemble, and Reverse",
-       "link" : "https://www.educative.io/courses/foundations-of-linux-arm64-debug-disassemble-and-reverse",
-       "difficulty" : "Intermediate",
-       "module_number" : 15,
+       "course_name" : "CI/CD Using Native Tools Available on AWS",
+       "link" : "https://www.educative.io/courses/ci-cd-using-native-tools-available-on-aws",
+       "difficulty" : "beginner",
+       "module_number" : 8,
        "certification" : "paid"
+     },
+     {
+      "id" :  23,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "Distributed Systems for Practitioners",
+      "link" : "https://www.educative.io/courses/distributed-systems-practitioners",
+      "difficulty" : "beginner",
+      "module_number" : 31,
+      "certification" : "paid"
      }
 ]
