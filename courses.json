@@ -1,237 +1,286 @@
 [
-    {
-      "id" :  1,
-      "platform" : "educative",
-      "free_course" : "no",
-      "course_name" : "Accelerated Linux Core Dump Analysis",
-      "link" : "https://www.educative.io/courses/accelerated-linux-core-dump-analysis",
-      "difficulty" : "advanced",
-      "module_number" : 15,
-      "certification" : "paid"
-    },
-    {
-      "id" :  2,
-      "platform" : "educative",
-      "free_course" : "no",
-      "course_name" : "Foundations of Linux ARM64: Debug, Disassemble, and Reverse",
-      "link" : "https://www.educative.io/courses/foundations-of-linux-arm64-debug-disassemble-and-reverse",
-      "difficulty" : "intermediate",
-      "module_number" : 15,
-      "certification" : "paid"
-    },
-    {
-      "id" :  3,
-      "platform" : "educative",
-      "free_course" : "no",
-      "course_name" : "Theory of computation",
-      "link" : "https://www.educative.io/courses/theory-of-computations",
-      "difficulty" : "beginner",
-      "module_number" : 11,
-      "certification" : "paid"
-    },
-     {
-      "id" :  4,
-      "platform" : "educative",
-      "free_course" : "no",
-      "course_name" : "Designing Machine/Deep Learning Models Using Azure CLI",
-      "link" : "https://www.educative.io/courses/designing-machine-deep-learning-models-using-azure-cli",
-      "difficulty" : "intermediate",
-      "module_number" : 8,
-      "certification" : "paid"
-    },
-    {
-      "id" :  5,
-      "platform" : "educative",
-      "free_course" : "no",
-      "course_name" : "Programming in python",
-      "link" : "https://www.educative.io/courses/programming-in-python",
-      "difficulty" : "beginner",
-      "module_number" : 27,
-      "certification" : "paid"
-    },
-    {
-      "id" :  6,
-      "platform" : "educative",
-      "free_course" : "no",
-      "course_name" : "The Art of PostgreSQL",
-      "link" : "https://www.educative.io/courses/the-art-of-postgresql",
-      "difficulty" : "advanced",
-      "module_number" : 42,
-      "certification" : "paid"
-    },
-    {
-      "id" :  12,
-      "platform" : "educative",
-      "free_course" : "no",
-      "course_name" : "Control Access to Your Applications Using Auth0 API in JavaScript",
-      "link" : "https://www.educative.io/courses/control-access-to-your-apps-using-auth0-api-in-javascript",
-      "difficulty" : "beginner",
-      "module_number" : 8,
-      "certification" : "paid"
-    },
-    {
-      "id" :  10,
-      "platform" : "educative",
-      "free_course" : "no",
-      "course_name" : "Learn to Code: Java for Absolute Beginners",
-      "link" : "https://www.educative.io/courses/learn-to-code-java-for-absolute-beginners",
-      "difficulty" : "beginner",
-      "module_number" : 9,
-      "certification" : "paid"
-    },
-    {
-      "id" :  9,
-      "platform" : "educative",
-      "free_course" : "no",
-      "course_name" : "Data Structures with Generic Types in Java",
-      "link" : "https://www.educative.io/courses/data-structures-with-generic-types-in-java",
-      "difficulty" : "intermediate",
-      "module_number" : 15,
-      "certification" : "paid"
-    },
-    {
-      "id" :  7,
-      "platform" : "educative",
-      "free_course" : "no",
-      "course_name" : "Advanced Data Structures: Implementing Tries in C++ and Java",
-      "link" : "https://www.educative.io/courses/advanced-data-structures-implementing-tries-in-cpp-and-java",
-      "difficulty" : "intermediate",
-      "module_number" : 10,
-      "certification" : "paid"
-    },
-    {
-      "id" :  14,
-      "platform" : "educative",
-      "free_course" : "no",
-      "course_name" : "Integration with YouTube Data API in JavaScript",
-      "link" : "https://www.educative.io/courses/integration-with-youtube-data-api-in-javascript",
-      "difficulty" : "beginner",
-      "module_number" : 8,
-      "certification" : "paid"
-    },
-    {
-      "id" :  11,
-      "platform" : "educative",
-      "free_course" : "no",
-      "course_name" : "Introduction to Data Analysis and Visualization with R",
-      "link" : "https://www.educative.io/courses/introduction-to-data-analysis-and-visualization-with-r",
-      "difficulty" : "beginner",
-      "module_number" : 8,
-      "certification" : "paid"
-    },
-    {
-      "id" :  20,
-      "platform" : "educative",
-      "free_course" : "no",
-      "course_name" : "Accelerated Linux Core Dump Analysis",
-      "link" : "https://www.educative.io/courses/accelerated-linux-core-dump-analysis",
-      "difficulty" : "advanced",
-      "module_number" : 15,
-      "certification" : "paid"
-    },
-    {
-      "id" :  8,
-      "platform" : "educative",
-      "free_course" : "no",
-      "course_name" : "All About JUnit5",
-      "link" : "https://www.educative.io/courses/all-about-junit5",
-      "difficulty" : "beginner",
-      "module_number" : 11,
-      "certification" : "paid"
-    },
-    {
-      "id" :  21,
-      "platform" : "educative",
-      "free_course" : "no",
-      "course_name" : "Data Science in R: From Basics to Machine Learning",
-      "link" : "https://www.educative.io/courses/data-science-in-r-from-basics-to-machine-learning",
-      "difficulty" : "advanced",
-      "module_number" : 11,
-      "certification" : "paid"
-    },
-    {
-      "id" :  19,
-      "platform" : "educative",
-      "free_course" : "no",
-      "course_name" : "Foundations of Linux ARM64: Debug, Disassemble, and Reverse",
-      "link" : "https://www.educative.io/courses/foundations-of-linux-arm64-debug-disassemble-and-reverse",
-      "difficulty" : "intermediate",
-      "module_number" : 15,
-      "certification" : "paid"
-    },
-    {
-      "id" :  22,
-      "platform" : "educative",
-      "free_course" : "no",
-      "course_name" : "Getting Started with Mobile App Development with React Native",
-      "link" : "https://www.educative.io/courses/getting-started-with-mobile-app-development-with-react-native",
-      "difficulty" : "intermediate",
-      "module_number" : 13,
-      "certification" : "paid"
-    },
-    {
-      "id" :  15,
-      "platform" : "educative",
-      "free_course" : "no",
-      "course_name" : "CI/CD Using Native Tools Available on AWS",
-      "link" : "https://www.educative.io/courses/ci-cd-using-native-tools-available-on-aws",
-      "difficulty" : "beginner",
-      "module_number" : 8,
-      "certification" : "paid"
-    },
-    {
-     "id" :  23,
+  {
+    "id": 1,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Accelerated Linux Core Dump Analysis",
+    "link": "https://www.educative.io/courses/accelerated-linux-core-dump-analysis",
+    "difficulty": "advanced",
+    "module_number": 15,
+    "certification": "paid"
+  },
+  {
+    "id": 2,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Foundations of Linux ARM64: Debug, Disassemble, and Reverse",
+    "link": "https://www.educative.io/courses/foundations-of-linux-arm64-debug-disassemble-and-reverse",
+    "difficulty": "intermediate",
+    "module_number": 15,
+    "certification": "paid"
+  },
+  {
+    "id": 3,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Theory of computation",
+    "link": "https://www.educative.io/courses/theory-of-computations",
+    "difficulty": "beginner",
+    "module_number": 11,
+    "certification": "paid"
+  },
+  {
+    "id": 4,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Designing Machine/Deep Learning Models Using Azure CLI",
+    "link": "https://www.educative.io/courses/designing-machine-deep-learning-models-using-azure-cli",
+    "difficulty": "intermediate",
+    "module_number": 8,
+    "certification": "paid"
+  },
+  {
+    "id": 5,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Programming in python",
+    "link": "https://www.educative.io/courses/programming-in-python",
+    "difficulty": "beginner",
+    "module_number": 27,
+    "certification": "paid"
+  },
+  {
+    "id": 6,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "The Art of PostgreSQL",
+    "link": "https://www.educative.io/courses/the-art-of-postgresql",
+    "difficulty": "advanced",
+    "module_number": 42,
+    "certification": "paid"
+  },
+  {
+    "id": 7,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Advanced Data Structures: Implementing Tries in C++ and Java",
+    "link": "https://www.educative.io/courses/advanced-data-structures-implementing-tries-in-cpp-and-java",
+    "difficulty": "intermediate",
+    "module_number": 10,
+    "certification": "paid"
+  },
+  {
+    "id": 8,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "All About JUnit5",
+    "link": "https://www.educative.io/courses/all-about-junit5",
+    "difficulty": "beginner",
+    "module_number": 11,
+    "certification": "paid"
+  },
+  {
+    "id": 9,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Data Structures with Generic Types in Java",
+    "link": "https://www.educative.io/courses/data-structures-with-generic-types-in-java",
+    "difficulty": "intermediate",
+    "module_number": 15,
+    "certification": "paid"
+  },
+  {
+    "id": 10,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Learn to Code: Java for Absolute Beginners",
+    "link": "https://www.educative.io/courses/learn-to-code-java-for-absolute-beginners",
+    "difficulty": "beginner",
+    "module_number": 9,
+    "certification": "paid"
+  },
+  {
+    "id": 11,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Introduction to Data Analysis and Visualization with R",
+    "link": "https://www.educative.io/courses/introduction-to-data-analysis-and-visualization-with-r",
+    "difficulty": "beginner",
+    "module_number": 8,
+    "certification": "paid"
+  },
+  {
+    "id": 12,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Control Access to Your Applications Using Auth0 API in JavaScript",
+    "link": "https://www.educative.io/courses/control-access-to-your-apps-using-auth0-api-in-javascript",
+    "difficulty": "beginner",
+    "module_number": 8,
+    "certification": "paid"
+  },
+  {
+     "id" :  13,
      "platform" : "educative",
      "free_course" : "no",
-     "course_name" : "Distributed Systems for Practitioners",
-     "link" : "https://www.educative.io/courses/distributed-systems-practitioners",
+     "course_name" : "Building Full-Stack Web Applications With Node.js and React",
+     "link" : "https://www.educative.io/courses/building-full-stack-web-applications-with-node-js-and-react",
      "difficulty" : "beginner",
-     "module_number" : 31,
-     "certification" : "paid"
-    },
-    {
-     "id" :  24,
-     "platform" : "educative",
-     "free_course" : "no",
-     "course_name" : "DevOps Katas: Mastering DevOps Practices",
-     "link" : "https://www.educative.io/courses/devops-katas-mastering-devops-practices",
-     "difficulty" : "advanced",
      "module_number" : 10,
      "certification" : "paid"
-    },
-    {
-      "id" :  18,
-      "platform" : "educative",
-      "free_course" : "no",
-      "course_name" : "An In-Depth Understanding of Memory and Pointers in C",
-      "link" : "https://www.educative.io/courses/in-depth-understanding-of-memory-and-pointers-in-c",
-      "difficulty" : "beginner",
-      "module_number" : 15,
-      "certification" : "paid"
-    },
-    {
-      "id" :  17,
-      "platform" : "educative",
-      "free_course" : "no",
-      "course_name" : "Debugging, Disassembly & Reversing in Linux for x64 Architecture",
-      "link" : "https://www.educative.io/courses/debugging-disassembly-reversing-in-linux-x64-architecture",
-      "difficulty" : "intermediate",
-      "module_number" : 15,
-      "certification" : "paid"
-    },
-    {
-     "id" :  16,
-     "platform" : "educative",
-     "free_course" : "no",
-     "course_name" : "Software Design Patterns in C",
-     "link" : "https://www.educative.io/courses/software-design-patterns-c",
-     "difficulty" : "intermediate",
-     "module_number" : 8,
-     "certification" : "paid"
-    },
-    
-    {
-     "id" :  9,
+  },
+  {
+    "id": 14,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Integration with YouTube Data API in JavaScript",
+    "link": "https://www.educative.io/courses/integration-with-youtube-data-api-in-javascript",
+    "difficulty": "beginner",
+    "module_number": 8,
+    "certification": "paid"
+  },
+  {
+    "id": 15,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "CI/CD Using Native Tools Available on AWS",
+    "link": "https://www.educative.io/courses/ci-cd-using-native-tools-available-on-aws",
+    "difficulty": "beginner",
+    "module_number": 8,
+    "certification": "paid"
+  },
+  {
+    "id": 16,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Software Design Patterns in C",
+    "link": "https://www.educative.io/courses/software-design-patterns-c",
+    "difficulty": "intermediate",
+    "module_number": 8,
+    "certification": "paid"
+  },
+  {
+    "id": 17,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Debugging, Disassembly & Reversing in Linux for x64 Architecture",
+    "link": "https://www.educative.io/courses/debugging-disassembly-reversing-in-linux-x64-architecture",
+    "difficulty": "intermediate",
+    "module_number": 15,
+    "certification": "paid"
+  },
+  {
+    "id": 18,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "An In-Depth Understanding of Memory and Pointers in C",
+    "link": "https://www.educative.io/courses/in-depth-understanding-of-memory-and-pointers-in-c",
+    "difficulty": "beginner",
+    "module_number": 15,
+    "certification": "paid"
+  },
+  {
+    "id": 19,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Foundations of Linux ARM64: Debug, Disassemble, and Reverse",
+    "link": "https://www.educative.io/courses/foundations-of-linux-arm64-debug-disassemble-and-reverse",
+    "difficulty": "intermediate",
+    "module_number": 15,
+    "certification": "paid"
+  },
+  {
+    "id": 20,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Accelerated Linux Core Dump Analysis",
+    "link": "https://www.educative.io/courses/accelerated-linux-core-dump-analysis",
+    "difficulty": "advanced",
+    "module_number": 15,
+    "certification": "paid"
+  },
+  {
+    "id": 21,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Data Science in R: From Basics to Machine Learning",
+    "link": "https://www.educative.io/courses/data-science-in-r-from-basics-to-machine-learning",
+    "difficulty": "advanced",
+    "module_number": 11,
+    "certification": "paid"
+  },
+  {
+    "id": 22,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Getting Started with Mobile App Development with React Native",
+    "link": "https://www.educative.io/courses/getting-started-with-mobile-app-development-with-react-native",
+    "difficulty": "intermediate",
+    "module_number": 13,
+    "certification": "paid"
+  },
+  {
+    "id": 23,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Distributed Systems for Practitioners",
+    "link": "https://www.educative.io/courses/distributed-systems-practitioners",
+    "difficulty": "beginner",
+    "module_number": 31,
+    "certification": "paid"
+  },
+  {
+    "id": 24,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "DevOps Katas: Mastering DevOps Practices",
+    "link": "https://www.educative.io/courses/devops-katas-mastering-devops-practices",
+    "difficulty": "advanced",
+    "module_number": 10,
+    "certification": "paid"
+  },
+  {
+    "id": 25,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "A Practical Guide to Helm",
+    "link": "https://www.educative.io/courses/a-practical-guide-to-helm",
+    "difficulty": "intermediate",
+    "module_number": 9,
+    "certification": "paid"
+  },
+  {
+    "id": 26,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Mastering Artificial Intelligence with Azure Cognitive Services",
+    "link": "https://www.educative.io/courses/mastering-artificial-intelligence-azure-cognitive-services",
+    "difficulty": "intermediate",
+    "module_number": 17,
+    "certification": "paid"
+  },
+  {
+    "id": 27,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Automate Workflows with AWS Step Functions",
+    "link": "https://www.educative.io/courses/automate-workflows-with-aws-step-functions",
+    "difficulty": "beginner",
+    "module_number": 14,
+    "certification": "paid"
+  },
+  {
+    "id": 28,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "AWS API Gateway: The Unsung Warrior",
+    "link": "https://www.educative.io/courses/aws-api-gateway-the-unsung-warrior",
+    "difficulty": "intermediate",
+    "module_number": 7,
+    "certification": "paid"
+  }
+  {
+     "id" :  29,
      "platform" : "educative",
      "free_course" : "no",
      "course_name" : "The Definitive Guide to MongoDB",
@@ -241,7 +290,7 @@
      "certification" : "paid"
     },
     {
-     "id" :  10,
+     "id" :  30,
      "platform" : "educative",
      "free_course" : "no",
      "course_name" : "Beginning Node.js, Express & MongoDB Development",
@@ -251,7 +300,7 @@
      "certification" : "paid"
     },
     {
-     "id" :  11,
+     "id" :  31,
      "platform" : "educative",
      "free_course" : "no",
      "course_name" : "API Development in Go Using MongoDB",
@@ -261,7 +310,7 @@
      "certification" : "paid"
     },
     {
-     "id" :  12,
+     "id" :  32,
      "platform" : "educative",
      "free_course" : "no",
      "course_name" : "API Development in Go Using MongoDB",
@@ -271,17 +320,7 @@
      "certification" : "paid"
     },
     {
-     "id" :  13,
-     "platform" : "educative",
-     "free_course" : "no",
-     "course_name" : "Building Full-Stack Web Applications With Node.js and React",
-     "link" : "https://www.educative.io/courses/building-full-stack-web-applications-with-node-js-and-react",
-     "difficulty" : "beginner",
-     "module_number" : 10,
-     "certification" : "paid"
-    },
-    {
-     "id" :  14,
+     "id" :  33,
      "platform" : "educative",
      "free_course" : "no",
      "course_name" : "MongoDB: The Complete Guide",
