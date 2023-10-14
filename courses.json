@@ -188,5 +188,15 @@
       "difficulty" : "beginner",
       "module_number" : 31,
       "certification" : "paid"
-     }
+     },
+     {
+      "id" :  24,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "DevOps Katas: Mastering DevOps Practices",
+      "link" : "https://www.educative.io/courses/devops-katas-mastering-devops-practices",
+      "difficulty" : "Advanced",
+      "module_number" : 10,
+      "certification" : "paid"
+     },
 ]
