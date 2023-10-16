@@ -408,6 +408,66 @@
      "difficulty" : "intermediate",
      "module_number" : 13,
      "certification" : "paid"
+  },     
+  {
+     "id" :  46,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "Azure Data Studio Masterclass",
+     "link" : "https://www.educative.io/courses/azure-data-studio-masterclass",
+     "difficulty" : "Beginner",
+     "module_number" : 11,
+     "certification" : "paid"
+    },
+{
+     "id" :  47,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "The Complete Guide to DevOps in Azure",
+     "link" : "https://www.educative.io/courses/complete-guide-devops-azure",
+     "difficulty" : "intermediate",
+     "module_number" : 15,
+     "certification" : "paid"
+  },
+{
+     "id" :  48,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "Docker Deep Dive: Advanced Techniques",
+     "link" : "https://www.educative.io/courses/advanced-docker-techniques",
+     "difficulty" : "advanced",
+     "module_number" : 10,
+     "certification" : "paid"
+    },
+  {
+     "id" :  49,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "Docker for Web Developers",
+     "link" : "https://www.educative.io/courses/docker-for-web-developers",
+     "difficulty" : "beginner",
+     "module_number" : 12,
+     "certification" : "paid"
+  },
+  {
+     "id" :  43,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "Quick Start Kubernetes",
+     "link" : "https://www.educative.io/courses/quick-start-kubernetes",
+     "difficulty" : "beginner",
+     "module_number" : 6,
+     "certification" : "paid"
+    },
+  {
+     "id" :  44,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "Terraform: From Beginner to Master with Examples in AWS",
+     "link" : "https://www.educative.io/courses/terraform-beginner-master-aws",
+     "difficulty" : "intermediate",
+     "module_number" : 20,
+     "certification" : "paid"
   },
   {
      "id" :  45,
@@ -420,4 +480,3 @@
      "certification" : "paid"
   }
   ]
-     
