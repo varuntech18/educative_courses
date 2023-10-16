@@ -418,5 +418,15 @@
      "difficulty" : "Beginner",
      "module_number" : 11,
      "certification" : "paid"
-    }
+    },
+{
+     "id" :  47,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "The Complete Guide to DevOps in Azure",
+     "link" : "https://www.educative.io/courses/complete-guide-devops-azure",
+     "difficulty" : "intermediate",
+     "module_number" : 15,
+     "certification" : "paid"
+  }
 ]
