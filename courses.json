@@ -399,6 +399,36 @@
      "module_number" : 17,
      "certification" : "paid"
     },
+  {
+     "id" :  42,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "Automate Your Network",
+     "link" : "https://www.educative.io/courses/automate-your-network",
+     "difficulty" : "intermediate",
+     "module_number" : 13,
+     "certification" : "paid"
+  },     
+  {
+     "id" :  46,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "Azure Data Studio Masterclass",
+     "link" : "https://www.educative.io/courses/azure-data-studio-masterclass",
+     "difficulty" : "Beginner",
+     "module_number" : 11,
+     "certification" : "paid"
+    },
+{
+     "id" :  47,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "The Complete Guide to DevOps in Azure",
+     "link" : "https://www.educative.io/courses/complete-guide-devops-azure",
+     "difficulty" : "intermediate",
+     "module_number" : 15,
+     "certification" : "paid"
+  },
 {
      "id" :  48,
      "platform" : "educative",
@@ -409,3 +439,4 @@
      "module_number" : 10,
      "certification" : "paid"
     }
+]
