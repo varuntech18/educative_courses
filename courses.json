@@ -398,5 +398,14 @@
      "difficulty" : "beginner",
      "module_number" : 17,
      "certification" : "paid"
+    },
+  {
+     "id" :  49,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "Docker for Web Developers",
+     "link" : "https://www.educative.io/courses/docker-for-web-developers",
+     "difficulty" : "beginner",
+     "module_number" : 12,
+     "certification" : "paid"
     }
-]
