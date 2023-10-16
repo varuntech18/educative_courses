@@ -398,5 +398,15 @@
      "difficulty" : "beginner",
      "module_number" : 17,
      "certification" : "paid"
+    },
+  {
+     "id" :  44,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "Terraform: From Beginner to Master with Examples in AWS",
+     "link" : "https://www.educative.io/courses/terraform-beginner-master-aws",
+     "difficulty" : "intermediate",
+     "module_number" : 20,
+     "certification" : "paid"
     }
 ]
