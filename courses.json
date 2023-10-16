@@ -370,6 +370,16 @@
      "certification" : "paid"
     },
   {
+     "id" :  39,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "Beginner’s Guide to Terraform",
+     "link" : "https://www.educative.io/courses/beginners-guide-to-terraform",
+     "difficulty" : "Beginner",
+     "module_number" : 12,
+     "certification" : "paid"
+  },
+  {
      "id" :  40,
      "platform" : "educative",
      "free_course" : "no",
@@ -379,5 +389,5 @@
      "module_number" : 17,
      "certification" : "paid"
     }
-]
+ ]
 
