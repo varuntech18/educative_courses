@@ -120,14 +120,14 @@
     "certification": "paid"
   },
   {
-     "id" :  13,
-     "platform" : "educative",
-     "free_course" : "no",
-     "course_name" : "Building Full-Stack Web Applications With Node.js and React",
-     "link" : "https://www.educative.io/courses/building-full-stack-web-applications-with-node-js-and-react",
-     "difficulty" : "beginner",
-     "module_number" : 10,
-     "certification" : "paid"
+    "id": 13,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Building Full-Stack Web Applications With Node.js and React",
+    "link": "https://www.educative.io/courses/building-full-stack-web-applications-with-node-js-and-react",
+    "difficulty": "beginner",
+    "module_number": 10,
+    "certification": "paid"
   },
   {
     "id": 14,
@@ -280,203 +280,203 @@
     "certification": "paid"
   },
   {
-     "id" :  29,
-     "platform" : "educative",
-     "free_course" : "no",
-     "course_name" : "The Definitive Guide to MongoDB",
-     "link" : "https://www.educative.io/courses/definitive-guide-to-mongodb",
-     "difficulty" : "intermediate",
-     "module_number" : 7,
-     "certification" : "paid"
-    },
-    {
-     "id" :  30,
-     "platform" : "educative",
-     "free_course" : "no",
-     "course_name" : "Beginning Node.js, Express & MongoDB Development",
-     "link" : "https://www.educative.io/courses/beginning-nodejs-express-mongodb-development",
-     "difficulty" : "intermediate",
-     "module_number" : 6,
-     "certification" : "paid"
-    },
-    {
-     "id" :  31,
-     "platform" : "educative",
-     "free_course" : "no",
-     "course_name" : "API Development in Go Using MongoDB",
-     "link" : "https://www.educative.io/courses/api-development-in-go-using-mongodb",
-     "difficulty" : "intermediate",
-     "module_number" : 9,
-     "certification" : "paid"
-    },
-    {
-     "id" :  33,
-     "platform" : "educative",
-     "free_course" : "no",
-     "course_name" : "MongoDB: The Complete Guide",
-     "link" : "https://www.educative.io/courses/mongodb-complete-guide",
-     "difficulty" : "intermediate",
-     "module_number" : 7,
-     "certification" : "paid"
-    },
-    {
-      "id" :  35,
-      "platform" : "educative",
-      "free_course" : "no",
-      "course_name" : "Vue - The Road to Enterprise",
-      "link" : "https://www.educative.io/courses/vue-the-road-to-enterprise",
-      "difficulty" : "advanced",
-      "module_number" : 16,
-      "certification" : "paid"
-    },
-    {
-     "id" :  34,
-     "platform" : "educative",
-     "free_course" : "no",
-     "course_name" : "Building a WhatsApp Clone with Vue.js and AWS Amplify",
-     "link" : "https://www.educative.io/courses/building-whatsapp-clone-with-vue-js-and-aws-amplify",
-     "difficulty" : "intermediate",
-     "module_number" : 7,
-     "certification" : "paid"
-    },
-    {
-      "id" :  37,
-     "platform" : "educative",
-     "free_course" : "no",
-     "course_name" : "Building a Medium Clone With Vue 3",
-     "link" : "https://www.educative.io/courses/medium-clone-vue3",
-     "difficulty" : "beginner",
-     "module_number" : 5,
-     "certification" : "paid"
-    },
-    {
-     "id" :  36,
-     "platform" : "educative",
-     "free_course" : "no",
-     "course_name" : "Develop an E-Commerce App Using Java, Spring Boot and Vue.js",
-     "link" : "https://www.educative.io/courses/develop-e-commerce-java-spring-boot-vue-js",
-     "difficulty" : "intermediate",
-     "module_number" : 12,
-     "certification" : "paid"
-    },
-  {
-     "id" :  38,
-     "platform" : "educative",
-     "free_course" : "no",
-     "course_name" : "The DevOps Toolkit Catalogue",
-     "link" : "https://www.educative.io/courses/the-devops-toolkit-catalogue",
-     "difficulty" : "intermediate",
-     "module_number" : 17,
-     "certification" : "paid"
-    },
-  {
-     "id" :  39,
-     "platform" : "educative",
-     "free_course" : "no",
-     "course_name" : "Beginner’s Guide to Terraform",
-     "link" : "https://www.educative.io/courses/beginners-guide-to-terraform",
-     "difficulty" : "beginner",
-     "module_number" : 12,
-     "certification" : "paid"
+    "id": 29,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "The Definitive Guide to MongoDB",
+    "link": "https://www.educative.io/courses/definitive-guide-to-mongodb",
+    "difficulty": "intermediate",
+    "module_number": 7,
+    "certification": "paid"
   },
   {
-     "id" :  40,
-     "platform" : "educative",
-     "free_course" : "no",
-     "course_name" : "HashiCorp Terraform Certified Associate Preparation Guide",
-     "link" : "https://www.educative.io/courses/hashicorp-terraform-certified-associate-preparation-guide",
-     "difficulty" : "intermediate",
-     "module_number" : 17,
-     "certification" : "paid"
-    },
-   {
-     "id" :  41,
-     "platform" : "educative",
-     "free_course" : "no",
-     "course_name" : "Kubernetes in Practice",
-     "link" : "https://www.educative.io/courses/kubernetes-in-practice",
-     "difficulty" : "beginner",
-     "module_number" : 17,
-     "certification" : "paid"
-    },
-  {
-     "id" :  42,
-     "platform" : "educative",
-     "free_course" : "no",
-     "course_name" : "Automate Your Network",
-     "link" : "https://www.educative.io/courses/automate-your-network",
-     "difficulty" : "intermediate",
-     "module_number" : 13,
-     "certification" : "paid"
-  },     
-  {
-     "id" :  46,
-     "platform" : "educative",
-     "free_course" : "no",
-     "course_name" : "Azure Data Studio Masterclass",
-     "link" : "https://www.educative.io/courses/azure-data-studio-masterclass",
-     "difficulty" : "Beginner",
-     "module_number" : 11,
-     "certification" : "paid"
-    },
-{
-     "id" :  47,
-     "platform" : "educative",
-     "free_course" : "no",
-     "course_name" : "The Complete Guide to DevOps in Azure",
-     "link" : "https://www.educative.io/courses/complete-guide-devops-azure",
-     "difficulty" : "intermediate",
-     "module_number" : 15,
-     "certification" : "paid"
-  },
-{
-     "id" :  48,
-     "platform" : "educative",
-     "free_course" : "no",
-     "course_name" : "Docker Deep Dive: Advanced Techniques",
-     "link" : "https://www.educative.io/courses/advanced-docker-techniques",
-     "difficulty" : "advanced",
-     "module_number" : 10,
-     "certification" : "paid"
-    },
-  {
-     "id" :  49,
-     "platform" : "educative",
-     "free_course" : "no",
-     "course_name" : "Docker for Web Developers",
-     "link" : "https://www.educative.io/courses/docker-for-web-developers",
-     "difficulty" : "beginner",
-     "module_number" : 12,
-     "certification" : "paid"
+    "id": 30,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Beginning Node.js, Express & MongoDB Development",
+    "link": "https://www.educative.io/courses/beginning-nodejs-express-mongodb-development",
+    "difficulty": "intermediate",
+    "module_number": 6,
+    "certification": "paid"
   },
   {
-     "id" :  43,
-     "platform" : "educative",
-     "free_course" : "no",
-     "course_name" : "Quick Start Kubernetes",
-     "link" : "https://www.educative.io/courses/quick-start-kubernetes",
-     "difficulty" : "beginner",
-     "module_number" : 6,
-     "certification" : "paid"
-    },
-  {
-     "id" :  44,
-     "platform" : "educative",
-     "free_course" : "no",
-     "course_name" : "Terraform: From Beginner to Master with Examples in AWS",
-     "link" : "https://www.educative.io/courses/terraform-beginner-master-aws",
-     "difficulty" : "intermediate",
-     "module_number" : 20,
-     "certification" : "paid"
+    "id": 31,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "API Development in Go Using MongoDB",
+    "link": "https://www.educative.io/courses/api-development-in-go-using-mongodb",
+    "difficulty": "intermediate",
+    "module_number": 9,
+    "certification": "paid"
   },
   {
-     "id" :  45,
-     "platform" : "educative",
-     "free_course" : "no",
-     "course_name" : "Run Selenium Java Tests In Azure DevOps",
-     "link" : "https://www.educative.io/courses/selenium-java-azure-devops",
-     "difficulty" : "intermediate",
-     "module_number" : 10,
-     "certification" : "paid"
+    "id": 33,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "MongoDB: The Complete Guide",
+    "link": "https://www.educative.io/courses/mongodb-complete-guide",
+    "difficulty": "intermediate",
+    "module_number": 7,
+    "certification": "paid"
+  },
+  {
+    "id": 34,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Building a WhatsApp Clone with Vue.js and AWS Amplify",
+    "link": "https://www.educative.io/courses/building-whatsapp-clone-with-vue-js-and-aws-amplify",
+    "difficulty": "intermediate",
+    "module_number": 7,
+    "certification": "paid"
+  },
+  {
+    "id": 35,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Vue - The Road to Enterprise",
+    "link": "https://www.educative.io/courses/vue-the-road-to-enterprise",
+    "difficulty": "advanced",
+    "module_number": 16,
+    "certification": "paid"
+  },
+  {
+    "id": 36,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Develop an E-Commerce App Using Java, Spring Boot and Vue.js",
+    "link": "https://www.educative.io/courses/develop-e-commerce-java-spring-boot-vue-js",
+    "difficulty": "intermediate",
+    "module_number": 12,
+    "certification": "paid"
+  },
+  {
+    "id": 37,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Building a Medium Clone With Vue 3",
+    "link": "https://www.educative.io/courses/medium-clone-vue3",
+    "difficulty": "beginner",
+    "module_number": 5,
+    "certification": "paid"
+  },
+  {
+    "id": 38,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "The DevOps Toolkit Catalogue",
+    "link": "https://www.educative.io/courses/the-devops-toolkit-catalogue",
+    "difficulty": "intermediate",
+    "module_number": 17,
+    "certification": "paid"
+  },
+  {
+    "id": 39,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Beginner’s Guide to Terraform",
+    "link": "https://www.educative.io/courses/beginners-guide-to-terraform",
+    "difficulty": "beginner",
+    "module_number": 12,
+    "certification": "paid"
+  },
+  {
+    "id": 40,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "HashiCorp Terraform Certified Associate Preparation Guide",
+    "link": "https://www.educative.io/courses/hashicorp-terraform-certified-associate-preparation-guide",
+    "difficulty": "intermediate",
+    "module_number": 17,
+    "certification": "paid"
+  },
+  {
+    "id": 41,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Kubernetes in Practice",
+    "link": "https://www.educative.io/courses/kubernetes-in-practice",
+    "difficulty": "beginner",
+    "module_number": 17,
+    "certification": "paid"
+  },
+  {
+    "id": 42,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Automate Your Network",
+    "link": "https://www.educative.io/courses/automate-your-network",
+    "difficulty": "intermediate",
+    "module_number": 13,
+    "certification": "paid"
+  },
+  {
+    "id": 43,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Quick Start Kubernetes",
+    "link": "https://www.educative.io/courses/quick-start-kubernetes",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
+  },
+  {
+    "id": 44,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Terraform: From Beginner to Master with Examples in AWS",
+    "link": "https://www.educative.io/courses/terraform-beginner-master-aws",
+    "difficulty": "intermediate",
+    "module_number": 20,
+    "certification": "paid"
+  },
+  {
+    "id": 45,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Run Selenium Java Tests In Azure DevOps",
+    "link": "https://www.educative.io/courses/selenium-java-azure-devops",
+    "difficulty": "intermediate",
+    "module_number": 10,
+    "certification": "paid"
+  },
+  {
+    "id": 46,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Azure Data Studio Masterclass",
+    "link": "https://www.educative.io/courses/azure-data-studio-masterclass",
+    "difficulty": "Beginner",
+    "module_number": 11,
+    "certification": "paid"
+  },
+  {
+    "id": 47,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "The Complete Guide to DevOps in Azure",
+    "link": "https://www.educative.io/courses/complete-guide-devops-azure",
+    "difficulty": "intermediate",
+    "module_number": 15,
+    "certification": "paid"
+  },
+  {
+    "id": 48,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Docker Deep Dive: Advanced Techniques",
+    "link": "https://www.educative.io/courses/advanced-docker-techniques",
+    "difficulty": "advanced",
+    "module_number": 10,
+    "certification": "paid"
+  },
+  {
+    "id": 49,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Docker for Web Developers",
+    "link": "https://www.educative.io/courses/docker-for-web-developers",
+    "difficulty": "beginner",
+    "module_number": 12,
+    "certification": "paid"
   }
-  ]
+]
