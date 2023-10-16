@@ -398,5 +398,16 @@
      "difficulty" : "beginner",
      "module_number" : 17,
      "certification" : "paid"
-    }
-]
+    },
+  {
+     "id" :  42,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "Automate Your Network",
+     "link" : "https://www.educative.io/courses/automate-your-network",
+     "difficulty" : "intermediate",
+     "module_number" : 13,
+     "certification" : "paid"
+  }
+  ]
+     
