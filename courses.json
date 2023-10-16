@@ -319,4 +319,14 @@
      "module_number" : 7,
      "certification" : "paid"
     }
+    {
+     "id" :  36,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "Develop an E-Commerce App Using Java, Spring Boot and Vue.js",
+     "link" : "https://www.educative.io/courses/develop-e-commerce-java-spring-boot-vue-js",
+     "difficulty" : "intermediate",
+     "module_number" : 12,
+     "certification" : "paid"
+    }
 ]
