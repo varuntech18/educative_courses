@@ -448,5 +448,16 @@
      "difficulty" : "beginner",
      "module_number" : 12,
      "certification" : "paid"
-  }
+  },
+  {
+     "id" :  43,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "Quick Start Kubernetes",
+     "link" : "https://www.educative.io/courses/quick-start-kubernetes",
+     "difficulty" : "beginner",
+     "module_number" : 6,
+     "certification" : "paid"
+    }
   ]
+ 
