@@ -319,4 +319,14 @@
      "module_number" : 7,
      "certification" : "paid"
     }
-]
+    {
+     "id" :  34,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "Building a WhatsApp Clone with Vue.js and AWS Amplify",
+     "link" : "https://www.educative.io/courses/building-whatsapp-clone-with-vue-js-and-aws-amplify",
+     "difficulty" : "intermediate",
+     "module_number" : 7,
+     "certification" : "paid"
+    }
+  
