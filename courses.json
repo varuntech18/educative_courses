@@ -369,15 +369,15 @@
      "module_number" : 17,
      "certification" : "paid"
     },
-  {
-     "id" :  39,
+   {
+     "id" :  41,
      "platform" : "educative",
      "free_course" : "no",
-     "course_name" : "Beginner’s Guide to Terraform",
-     "link" : "https://www.educative.io/courses/beginners-guide-to-terraform",
+     "course_name" : "Kubernetes in Practice",
+     "link" : "https://www.educative.io/courses/kubernetes-in-practice",
      "difficulty" : "Beginner",
-     "module_number" : 12,
+     "module_number" : 17,
      "certification" : "paid"
-  }
+    }
 ]
 
