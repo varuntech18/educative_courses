@@ -369,15 +369,34 @@
      "module_number" : 17,
      "certification" : "paid"
     },
+  {
+     "id" :  39,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "Beginner’s Guide to Terraform",
+     "link" : "https://www.educative.io/courses/beginners-guide-to-terraform",
+     "difficulty" : "beginner",
+     "module_number" : 12,
+     "certification" : "paid"
+  },
+  {
+     "id" :  40,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "HashiCorp Terraform Certified Associate Preparation Guide",
+     "link" : "https://www.educative.io/courses/hashicorp-terraform-certified-associate-preparation-guide",
+     "difficulty" : "intermediate",
+     "module_number" : 17,
+     "certification" : "paid"
+    },
    {
      "id" :  41,
      "platform" : "educative",
      "free_course" : "no",
      "course_name" : "Kubernetes in Practice",
      "link" : "https://www.educative.io/courses/kubernetes-in-practice",
-     "difficulty" : "Beginner",
+     "difficulty" : "beginner",
      "module_number" : 17,
      "certification" : "paid"
     }
 ]
-
