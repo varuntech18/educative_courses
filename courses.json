@@ -318,7 +318,17 @@
      "difficulty" : "intermediate",
      "module_number" : 7,
      "certification" : "paid"
-    }
+    },
+    {
+      "id" :  35,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "Vue - The Road to Enterprise",
+      "link" : "https://www.educative.io/courses/vue-the-road-to-enterprise",
+      "difficulty" : "advanced",
+      "module_number" : 16,
+      "certification" : "paid"
+    },
     {
      "id" :  34,
      "platform" : "educative",
@@ -329,4 +339,4 @@
      "module_number" : 7,
      "certification" : "paid"
     }
-  
+]
