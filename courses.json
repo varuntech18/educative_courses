@@ -360,6 +360,16 @@
      "certification" : "paid"
     },
   {
+     "id" :  38,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "The DevOps Toolkit Catalogue",
+     "link" : "https://www.educative.io/courses/the-devops-toolkit-catalogue",
+     "difficulty" : "intermediate",
+     "module_number" : 17,
+     "certification" : "paid"
+    },
+  {
      "id" :  39,
      "platform" : "educative",
      "free_course" : "no",
@@ -368,5 +378,6 @@
      "difficulty" : "Beginner",
      "module_number" : 12,
      "certification" : "paid"
+  }
 ]
 
