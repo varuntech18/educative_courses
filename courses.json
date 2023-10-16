@@ -318,7 +318,37 @@
      "difficulty" : "intermediate",
      "module_number" : 7,
      "certification" : "paid"
-    }
+    },
+    {
+      "id" :  35,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "Vue - The Road to Enterprise",
+      "link" : "https://www.educative.io/courses/vue-the-road-to-enterprise",
+      "difficulty" : "advanced",
+      "module_number" : 16,
+      "certification" : "paid"
+    },
+    {
+     "id" :  34,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "Building a WhatsApp Clone with Vue.js and AWS Amplify",
+     "link" : "https://www.educative.io/courses/building-whatsapp-clone-with-vue-js-and-aws-amplify",
+     "difficulty" : "intermediate",
+     "module_number" : 7,
+     "certification" : "paid"
+    },
+    {
+      "id" :  37,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "Building a Medium Clone With Vue 3",
+     "link" : "https://www.educative.io/courses/medium-clone-vue3",
+     "difficulty" : "beginner",
+     "module_number" : 5,
+     "certification" : "paid"
+    },
     {
      "id" :  36,
      "platform" : "educative",
