@@ -428,5 +428,15 @@
      "difficulty" : "intermediate",
      "module_number" : 15,
      "certification" : "paid"
-  }
+  },
+{
+     "id" :  48,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "Docker Deep Dive: Advanced Techniques",
+     "link" : "https://www.educative.io/courses/advanced-docker-techniques",
+     "difficulty" : "advanced",
+     "module_number" : 10,
+     "certification" : "paid"
+    }
 ]
