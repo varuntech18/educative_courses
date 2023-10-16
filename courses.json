@@ -408,6 +408,16 @@
      "difficulty" : "intermediate",
      "module_number" : 13,
      "certification" : "paid"
+  },
+  {
+     "id" :  45,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "Run Selenium Java Tests In Azure DevOps",
+     "link" : "https://www.educative.io/courses/selenium-java-azure-devops",
+     "difficulty" : "intermediate",
+     "module_number" : 10,
+     "certification" : "paid"
   }
   ]
      
