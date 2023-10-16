@@ -375,10 +375,50 @@
      "free_course" : "no",
      "course_name" : "Beginner’s Guide to Terraform",
      "link" : "https://www.educative.io/courses/beginners-guide-to-terraform",
-     "difficulty" : "Beginner",
+     "difficulty" : "beginner",
      "module_number" : 12,
      "certification" : "paid"
   },
+  {
+     "id" :  40,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "HashiCorp Terraform Certified Associate Preparation Guide",
+     "link" : "https://www.educative.io/courses/hashicorp-terraform-certified-associate-preparation-guide",
+     "difficulty" : "intermediate",
+     "module_number" : 17,
+     "certification" : "paid"
+    },
+   {
+     "id" :  41,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "Kubernetes in Practice",
+     "link" : "https://www.educative.io/courses/kubernetes-in-practice",
+     "difficulty" : "beginner",
+     "module_number" : 17,
+     "certification" : "paid"
+    },
+  {
+     "id" :  42,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "Automate Your Network",
+     "link" : "https://www.educative.io/courses/automate-your-network",
+     "difficulty" : "intermediate",
+     "module_number" : 13,
+     "certification" : "paid"
+  },     
+  {
+     "id" :  46,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "Azure Data Studio Masterclass",
+     "link" : "https://www.educative.io/courses/azure-data-studio-masterclass",
+     "difficulty" : "Beginner",
+     "module_number" : 11,
+     "certification" : "paid"
+    },
 {
      "id" :  47,
      "platform" : "educative",
@@ -389,4 +429,4 @@
      "module_number" : 15,
      "certification" : "paid"
   }
-
+]
