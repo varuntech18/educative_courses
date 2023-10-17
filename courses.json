@@ -478,5 +478,15 @@
     "difficulty": "beginner",
     "module_number": 12,
     "certification": "paid"
+  },
+  {
+    "id": 50,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Java for Programmers",
+    "link": "https://www.educative.io/path/java-for-programmers",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
   }
 ]
