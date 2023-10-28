@@ -488,5 +488,15 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
+  },
+  {
+    "id": 51,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "A Complete Guide to Java Programming",
+    "link": "https://www.educative.io/courses/complete-guide-to-java-programming",
+    "difficulty": "beginner",
+    "module_number": 76,
+    "certification":"paid"
   }
 ]
